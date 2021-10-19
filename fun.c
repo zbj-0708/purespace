@@ -3,6 +3,6 @@
 int main(void)
 {
 	
-	printf("first push fun.c\n");
+	printf("second push fun.c\n");
 	return 0;
 }
